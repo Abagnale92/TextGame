@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 131d8b908824b0a4798ebf8acc86cd5b, type: 3}
+  m_Name: 6BA3
+  m_EditorClassIdentifier: 
+  storyText: "Ti unisci alla banda.\nLa cosa sembra andare bene per diverse settimane.\nFai
+    tutto quello che ti pare a discapito della legge e delle precauzioni imposte.\nIl
+    tempo passa e sembra che tu ti stia divertendo.\nNoti per\xF2 un certo malessere
+    tra i membri della banda.\n\nPremi 1 per continuare"
+  nextStates:
+  - {fileID: 11400000, guid: f4cd910e494ff5c43b5167fee95c9636, type: 2}

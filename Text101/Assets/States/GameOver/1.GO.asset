@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 131d8b908824b0a4798ebf8acc86cd5b, type: 3}
+  m_Name: 1.GO
+  m_EditorClassIdentifier: 
+  storyText: "Per il troppo caldo, svieni nella vasca e cadi in un sonno profondo.\nSei
+    morto affogato.\n\nGame Over \n\n\n1) ricomincia la storia\n2)  Esci"
+  nextStates:
+  - {fileID: 11400000, guid: 258b6b06b5542974290ef999206673f4, type: 2}
+  - {fileID: 11400000, guid: 4623d7042231be248ae558a7f1c54632, type: 2}

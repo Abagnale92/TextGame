@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 131d8b908824b0a4798ebf8acc86cd5b, type: 3}
+  m_Name: 3BA
+  m_EditorClassIdentifier: 
+  storyText: "Indossi velocemente il travestimento.\nEsci di casa e a pochi metri,
+    incontri il primo poliziotto che ti smaschera!\nTi fa una multa di 500\u20AC
+    perch\xE8 non gli hai saputo dare un valido motivo della tua uscita ed eri senza
+    autocertificazione!\n\n1) Torni a casa scontento e decidi di fare altro\n2) Tenti
+    comunque di fare un giro in citt\xE0"
+  nextStates:
+  - {fileID: 11400000, guid: c336dab0e4cbaac4ea587f5892fadbd8, type: 2}
+  - {fileID: 11400000, guid: 00a91e2d6a939534b9e67cd9468a46e7, type: 2}

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 131d8b908824b0a4798ebf8acc86cd5b, type: 3}
+  m_Name: 2A
+  m_EditorClassIdentifier: 
+  storyText: "OK! Fai una breve ricerca su Giallo Zafferano e trovi una ricetta su
+    come fare i calzoni ripieni.\nApri il frigorifero e la credenza, per prendere
+    tutto ci\xF2 che ti occorre.\nSfortunatamente scopri che ti manca la farina.\n\nCosa
+    fai?\n1)Cerchi un'altra ricetta, che non richieda l'uso della farina\n2)Ti dedichi
+    ad altro"
+  nextStates:
+  - {fileID: 11400000, guid: 7782829671debe44ebf34dd822af0201, type: 2}
+  - {fileID: 11400000, guid: bad9006fa4fb6bf4db6c44187f17ecab, type: 2}

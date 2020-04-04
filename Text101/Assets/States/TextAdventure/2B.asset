@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 131d8b908824b0a4798ebf8acc86cd5b, type: 3}
+  m_Name: 2B
+  m_EditorClassIdentifier: 
+  storyText: "La missione segreta consiste nell'uscire di casa per andare a prendere
+    delle provviste d'emergenza, senza che nessuno lo noti.\nPer prima cosa abbiamo
+    bisogno di un travestimento.\n\nCosa scegli?\n1)Completo Rosso con maschera di
+    Dal\xEC\n2) Mascherina FFP2 e Cappello"
+  nextStates:
+  - {fileID: 11400000, guid: 1368292b4a4f83e43a80710b855d35ba, type: 2}
+  - {fileID: 11400000, guid: 81de44c1cdb662d4a8930beb0a95ea03, type: 2}

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 131d8b908824b0a4798ebf8acc86cd5b, type: 3}
+  m_Name: StartingState
+  m_EditorClassIdentifier: 
+  storyText: "Sono passati diverse settimane da quando \xE8 inziata la quarantena,\r\normai
+    non \xE8 pi\xF9 possibile uscire di casa, il cibo scarseggia,\r\n non riesci
+    a dormire,non puoi stare con la persona che ami, \r\n ti senti frustrato, vorresti
+    fare qualcosa, ma cosa?\r\n\r\n Scelte:\r\n 1) Provare a cucinare un nuovo piatto
+    per distrarti\r\n 2) Prepararti per una missione top secret"
+  nextStates:
+  - {fileID: 11400000, guid: 1e45518e8def059418c5a9ee59b40e2a, type: 2}
+  - {fileID: 11400000, guid: 5e758be109819cd46b315ac6fad36fc2, type: 2}
